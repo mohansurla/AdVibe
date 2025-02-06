@@ -1,2 +1,1 @@
-# AdVibe
-Your Business’s Ad Automation Partner
+# AI Chatbot for Automating Google Ads Campaigns
